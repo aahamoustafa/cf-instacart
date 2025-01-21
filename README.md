@@ -1,5 +1,6 @@
 # cf-instacart
-![ret3](https://github.com/user-attachments/assets/db0ca257-5247-41e3-b2f7-2a0e8ffda474)
+<img src="https://github.com/user-attachments/assets/db0ca257-5247-41e3-b2f7-2a0e8ffda474" alt="Instacart logo" width="200">
+
 
 ## Objective 
 
