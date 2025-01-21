@@ -9,11 +9,12 @@ Instacart is an online grocery store that operates through an app. Instacart has
 
 The dataset is composed of information on the following parameters 
 
-orders 
-products 
-departments 
+orders   
+products   
+departments  
 
-The full details of the data are avaialble here 
+The full details of the data are avaialble [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 
 ## Tools 
