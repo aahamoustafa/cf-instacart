@@ -49,7 +49,7 @@ Instacart, a leading online grocery delivery service, faced the challenge of opt
 ## 💡 Insights
 ## **3. Insights**
 ### Peak Shopping Times
-![Peak Shopping Times]('/Users/aahamoustafa/Desktop/Data Projects/Instacart Basket Analysis  12-2024/04 Analysis /Visualizations/Money Spent across the day.png')
+![Peak Shopping Times](Jupyter Scripts & Analysis/Visualizations/Money Spent across the day.png)
 - **Weekends and evenings** were the busiest times for orders.
 - High-spending customers preferred afternoons for premium products.
 
