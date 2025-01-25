@@ -62,12 +62,8 @@ The analysis utilizes the following data sets:
 
 ## 🛠️ Tools and Technologies
 - **Programming Language:** Python
-- **Libraries Used:** pandas, NumPy, matplotlib, seaborn, scipy
+- **Libraries Used:** pandas, NumPy, matplotlib, seaborn
 - **Data Management:** Jupyter Notebooks, Anaconda
 - **Visualization Tools:** Matplotlib, Seaborn
 
-## 🌐 Contact
-For feedback or inquiries, please reach out:
-**Abdelrahman Moustafa**
-📧 aahamoustafa@gmail.com
 
