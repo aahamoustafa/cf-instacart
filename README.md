@@ -1,4 +1,5 @@
 # Instacart Grocery Basket Analysis
+
 <img src="https://github.com/user-attachments/assets/db0ca257-5247-41e3-b2f7-2a0e8ffda474" alt="Instacart logo" width="200">
 
 ## 📖 Project Overview
@@ -19,7 +20,6 @@ The analysis utilizes the following data sets:
 
 ### Data Sources
 - Customer dataset created specifically for this project.
-- Instacart datasets available via Kaggle: [Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 - **Citation:** "The Instacart Online Grocery Shopping Dataset 2017", Accessed from www.instacart.com/datasets/grocery-shopping-2017.
 
 ## 🛠️ Approach
