@@ -47,20 +47,19 @@ Instacart, a leading online grocery delivery service, faced the challenge of opt
 ---
 
 ## 💡 Insights
-## **3. Insights**
 ### Peak Shopping Times
-![Peak Shopping Times](Jupyter Scripts & Analysis/Visualizations/Money Spent across the day.png)
+![Peak Shopping Times](Jupyter%20Scripts%20&%20Analysis/Visualizations/Money%20Spent%20across%20the%20day.png)
 - **Weekends and evenings** were the busiest times for orders.
-- High-spending customers preferred afternoons for premium products.
+- High-spending customers preferred late nights & afternoons for premium products.
 
 ### Product Preferences
-![Product Popularity](images/popular_products.png)
 - Fresh produce and household essentials were the most ordered categories.
 
 ### Customer Segmentation
 - **Loyal customers** placed frequent, high-value orders.
+- The customer profile distribution indicated that **parents** were the largest segment, frequently purchasing household essentials and baby products, followed by **seniors**, who showed a preference for health-related items and steady purchasing patterns.
 - Regional preferences varied significantly, with urban customers favoring convenience items.
-
+![Customer Profile Distribution](Jupyter%20Scripts%20&%20Analysis/Visualizations/Customer%20Profile%20Distribution.png)
 ---
 
 ## 🚀 Recommendations
